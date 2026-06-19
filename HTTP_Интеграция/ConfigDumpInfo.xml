@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="CommonModule.оо_HTTPСервер" id="eabb714e-7134-40fd-8145-7938b9176986" configVersion="187d4e003f4d487d32377aa3d6524fbfaf8ce99c"/>
+		<Metadata name="CommonModule.оо_HTTPСервер.Module" id="eabb714e-7134-40fd-8145-7938b9176986.0" configVersion="bf37a1153780165ffff9f5cd9e87a0f2ee997c34"/>
+		<Metadata name="CommonModule.оо_ФункцииДляРаботыСНТТР" id="0ae8c74b-0031-4722-8bc7-548fa5acbcb6" configVersion="100600fbde6b6cb9012a8bc7330565ca14b81af1"/>
+		<Metadata name="CommonModule.оо_ФункцииДляРаботыСНТТР.Module" id="0ae8c74b-0031-4722-8bc7-548fa5acbcb6.0" configVersion="0d72d30985cec9bf43ee20accde99865f7e6381f"/>
+		<Metadata name="Configuration.HTTP_Интеграция" id="c92bc6b2-fc44-4024-8fc8-e52688d36a2f" configVersion="fc61ae235ae20a3e1cb0872d989188f3f35709f2"/>
+		<Metadata name="HTTPService.оо_HTTPОбмен" id="ac80e258-b9c8-4c60-8314-8d28d4e3bea3" configVersion="d1019047efcd0aa87577e32e5d8d72226ec6e35b">
+			<Metadata name="HTTPService.оо_HTTPОбмен.URLTemplate.ВыполнитьЗагрузкуДанных" id="1d8df9dd-9ea0-4704-aa3f-2948317894d1"/>
+			<Metadata name="HTTPService.оо_HTTPОбмен.URLTemplate.ВыполнитьЗагрузкуДанных.Method.POST" id="cff602f7-e420-4054-bb02-0aed345635c0"/>
+		</Metadata>
+		<Metadata name="HTTPService.оо_HTTPОбмен.Module" id="ac80e258-b9c8-4c60-8314-8d28d4e3bea3.0" configVersion="01685e491a40cbb0c878194d8e7889b53f8d6903"/>
+		<Metadata name="Language.Русский" id="4468bb0e-9ec0-411f-8c80-8b2bd08a490a" configVersion="d779f1ff41cc5e7e1ebc4f75f35cc03d1ab384c7"/>
+		<Metadata name="Role.Расш1_ОсновнаяРоль" id="9b215137-1055-4024-afbd-e585ee379f74" configVersion="00ccefbd349d283f242d21785b2ea40b21f2ed65"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
